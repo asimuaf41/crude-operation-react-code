@@ -4,5 +4,7 @@
     "cors": "^2.8.5",
     "mongoose": "^5.4.6"
   },
-  "version": ""
+  "version": "",
+  "scripts": {"start":"server.js"},
+  "start":"Node App.js"
 }
